@@ -1,2 +1,2 @@
 # adv-cloud-mirror
-Mirror repository of the private repository used in Advanced Scripting for Cloud | Now with personal information removed, so I can showcase my work!
+Mirror repository a private repository used in my Advanced Scripting for Cloud class to submit work. I've created this to showcase my work!
